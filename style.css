@@ -34,7 +34,7 @@ body{
 /*begins first section*/
 
 #first-session{
-    background: linear-gradient(rgba(68, 13, 13, 0.35),rgba(38, 2, 2, 0.446)), url(./assets/Main_Pic.jpg) no-repeat center/cover;
+    background: linear-gradient(rgba(68, 13, 13, 0.35),rgba(38, 2, 2, 0.446)), url(Main_Pic.jpg) no-repeat center/cover;
     background-attachment: fixed;
     height: 100vh;
     color: white;
@@ -345,4 +345,5 @@ footer{
         justify-items: center;
         align-items: center;
     }
+
 }
