@@ -170,7 +170,7 @@ nav > a:hover {
     /*begins fourth section*/
 
     #fourth-session{
-        background:  url(slide.jpg) no-repeat center/cover;
+        background:  url(Slide.jpg) no-repeat center/cover;
         background-attachment: fixed;
         height: 100vh;
         color: white;
@@ -347,6 +347,7 @@ footer{
     }
 
 }
+
 
 
 
